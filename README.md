@@ -1,5 +1,8 @@
-<!-- ### Hi there 👋 -->
-👋🏽 Hi, my name is Waqar.
+
+# Hi, I'm Waqar! 👋
+
+  
+## 🚀 About Me
 
 🎓 Western University graduate with a Bachelor's of Science in Computer Science. (Spring 2021)
 
@@ -18,6 +21,15 @@
 💼 I'm interested in full-stack web development opportunities where I can put my skills and experiences to practical use and continue to be challenged and grow as a software developer.
 
 📫 You can get in touch with me at waqaar.199@gmail.com
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://waqarkalim.github.io/)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-kalim/)  
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waqar_kalim)  
+
+  
+## 🛠 Skills
+Javascript, Typescript, Python, Java, C#, Linux, Git, SVN, React, React Native, Node.js, Express, Socket.io, Material-UI, HTML, CSS, Ruby, Redis, MySQL, PostgreSQL, SQLite, Bash, Docker, Grafana, .NET, CockroachDB, Pandas, Numpy, Scikit-learn, Jira, Confluence, Spark, AWS, Amazon Redshift, EC2, ECS, S3, RDS, APIs, Slack, Heroku
 
 <!--
 **waqarkalim/waqarkalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
