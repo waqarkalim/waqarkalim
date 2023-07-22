@@ -5,9 +5,11 @@ Greetings! I'm a passionate software developer with over 3 years of industry exp
 🔹 Experience 🔹
 
 🚀 Carfax | Associate Software Engineer
+
 As an "Associate Software Engineer" at Carfax, I play a pivotal role in crafting web applications using the power of Typescript and React. I am committed to delivering high-quality solutions that enhance user experiences and drive business growth. Collaborating with talented teams has taught me the value of effective communication and the importance of working together to tackle complex challenges.
 
 💼 Big Blue Bubble | Game Analyst Intern
+
 During my 16-month internship, I had the opportunity to work on data analysis and software development tasks. This experience allowed me to sharpen my analytical mindset and solve intricate problems while delivering meaningful insights to support strategic decision-making.
 
 🔹 Expertise 🔹
