@@ -1,3 +1,5 @@
+🔹 About Me 🔹
+
 Greetings! I'm a passionate software developer with over 3 years of industry experience, specializing in web development. I bring a unique perspective to my work, having previously dabbled in data analysis during my internship. Currently, I'm a junior Software Engineer at Carfax, where I thrive in the ever-evolving world of web development.
 
 🔹 Experience 🔹
