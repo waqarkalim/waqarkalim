@@ -1,47 +1,25 @@
+Greetings! I'm a passionate software developer with over 3 years of industry experience, specializing in web development. I bring a unique perspective to my work, having previously dabbled in data analysis during my internship. Currently, I'm a junior Software Engineer at Carfax, where I thrive in the ever-evolving world of web development.
 
-# Hi, I'm Waqar! 👋
+🔹 Experience 🔹
 
-  
-## 🚀 About Me
+🚀 Carfax | Associate Software Engineer
+As an "Associate Software Engineer" at Carfax, I play a pivotal role in crafting web applications using the power of Typescript and React. I am committed to delivering high-quality solutions that enhance user experiences and drive business growth. Collaborating with talented teams has taught me the value of effective communication and the importance of working together to tackle complex challenges.
 
-🎓 Western University graduate with a Bachelor's of Science in Computer Science. (Spring 2021)
+💼 Big Blue Bubble | Game Analyst Intern
+During my 16-month internship, I had the opportunity to work on data analysis and software development tasks. This experience allowed me to sharpen my analytical mindset and solve intricate problems while delivering meaningful insights to support strategic decision-making.
 
-🌇 Pakistani/Canadian, with a passion for coding and developing products that will bring value to others
+🔹 Expertise 🔹
 
-📚 In terms of experience, at my 16-month internship, I was responsible for maintaining and developing high-quality tools using Javascript, React, and Node.js for department use. After a few months, I became the go-to guy for the company's Grafana system and was responsible for maintaining and improving it. This experience taught me a great deal about software development and data analysis. 
+🌐 Web Development: I thrive in developing robust, user-friendly web applications utilizing modern technologies like Typescript and React. My expertise in front-end development empowers me to create intuitive and visually appealing interfaces.
 
-💬 Outside of work, I've worked on a couple of fun side projects over the years, which I'm always happy to talk about with people.
+🔹 Why I Love What I Do 🔹
 
-💻 As for my future, I hope to one day work as a software developer at a company where my work has an impact and will bring value to other people, and at the same time, I would love to work with a diverse and fun team.
+I am genuinely passionate about the potential of technology to shape a better tomorrow. Every day as a software developer, I get the chance to transform ideas into reality and contribute to meaningful projects that have a positive impact on people's lives.
 
-🏔 In my free time, you can find me watching fun sitcoms, listening to music, and learning new skills.
+🔹 Looking Ahead 🔹
 
-🌱 Frontend Development (JavaScript, React), Backend Development (Node.js, Express.js, PostgreSQL), Machine Learning (Python)
+The world of technology continues to evolve at an incredible pace, and I'm excited to stay at the forefront of innovation. I am constantly seeking new challenges, opportunities to learn, and chances to collaborate with like-minded individuals who share a vision of making a difference through technology.
 
-💼 I'm interested in full-stack web development opportunities where I can put my skills and experiences to practical use and continue to be challenged and grow as a software developer.
+📬 Let's Connect 📬
 
-📫 You can get in touch with me at waqaar.199@gmail.com
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://waqarkalim.github.io/)  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-kalim/)  
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waqar_kalim)  
-
-  
-## 🛠 Skills
-Javascript, Typescript, Python, Java, C#, Linux, Git, SVN, React, React Native, Node.js, Express, Socket.io, Material-UI, HTML, CSS, Ruby, Redis, MySQL, PostgreSQL, SQLite, Bash, Docker, Grafana, .NET, CockroachDB, Pandas, Numpy, Scikit-learn, Jira, Confluence, Spark, AWS, Amazon Redshift, EC2, ECS, S3, RDS, APIs, Slack, Heroku
-
-<!--
-**waqarkalim/waqarkalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to connecting with fellow professionals, discussing potential collaborations, or simply exchanging ideas. Feel free to reach out, and let's explore how we can contribute to the tech world together!
